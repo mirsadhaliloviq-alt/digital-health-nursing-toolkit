@@ -6,10 +6,9 @@ Resources, notes, tools, and educational materials related to Nursing Informatic
 
 - Clinical Documentation
 - Electronic Health Records (EHR)
+- Healthcare Information Systems
 - Healthcare Data
 - Digital Nursing
-- Healthcare Information Systems
-- Nursing Technology
 - AI in Nursing
 
 ## Goal
